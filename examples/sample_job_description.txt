@@ -1,0 +1,87 @@
+Senior Full Stack Engineer
+
+Location: Remote / On-Site (Hybrid)
+Department: Engineering
+Reports To: Engineering Manager
+
+ABOUT THE ROLE
+
+We are seeking an experienced Senior Full Stack Engineer to join our growing engineering team. The ideal candidate will have a strong background in both frontend and backend development, with the ability to architect scalable solutions and mentor junior engineers.
+
+This is a high-impact role where you'll work on critical systems serving millions of users, make architectural decisions, and help shape our technical culture.
+
+KEY RESPONSIBILITIES
+
+• Design and develop scalable full-stack web applications using modern technologies
+• Architect microservices and distributed systems for reliability and performance
+• Collaborate with product managers, designers, and other engineers to translate requirements into technical solutions
+• Mentor and support junior engineers through code reviews and technical guidance
+• Optimize application performance through profiling and optimization
+• Participate in technical discussions and architecture reviews
+• Contribute to continuous improvement of development practices and processes
+• Write clean, maintainable code with comprehensive test coverage
+
+REQUIRED QUALIFICATIONS
+
+• 5+ years of professional software development experience
+• Strong proficiency in at least one backend language (Python, Java, Go, or similar)
+• Strong JavaScript/TypeScript skills for frontend development
+• Experience with React, Vue.js, or similar modern frontend frameworks
+• Database design and optimization skills (both SQL and NoSQL)
+• REST API design and integration experience
+• Understanding of microservices architecture and distributed systems
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Git version control proficiency
+• Excellent problem-solving and communication skills
+• Experience with testing frameworks and practices
+
+DESIRED QUALIFICATIONS
+
+• Kubernetes and Docker containerization experience
+• Experience with CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions)
+• Knowledge of Machine Learning or AI concepts
+• GraphQL experience
+• AWS certifications (Solutions Architect, Developer Associate)
+• Open source contributions
+• Experience with Agile/Scrum methodologies
+• Database optimization and query performance tuning
+• System design and scalability experience
+
+TECHNICAL SKILLS REQUIRED
+
+- Backend: Python, Java, Node.js, or Go
+- Frontend: React, Vue.js, or Angular
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS, GCP, or Azure
+- Version Control: Git
+- Testing: Unit and integration testing
+
+EDUCATION & CERTIFICATIONS
+
+• Bachelor's degree in Computer Science, Engineering, or related field (or equivalent professional experience)
+• Any relevant certifications (AWS, Kubernetes, etc.) preferred but not required
+
+WHAT WE OFFER
+
+• Competitive salary and equity package
+• Comprehensive health insurance
+• Professional development budget
+• Home office setup stipend
+• Unlimited PTO
+• Mentorship and growth opportunities
+• Collaborative and inclusive work environment
+• Cutting-edge technology stack
+
+COMPANY OVERVIEW
+
+We're a fast-growing technology company focused on building innovative solutions. Our team values technical excellence, continuous learning, and collaborative culture.
+
+APPLICATION PROCESS
+
+Please submit your resume, cover letter, and links to your GitHub profile or portfolio. We review applications on a rolling basis and will contact promising candidates within 5 business days.
+
+EOY Benefits / Perks:
+- Annual performance bonus
+- Stock options
+- Flexible work arrangements
+- Team outings and events
